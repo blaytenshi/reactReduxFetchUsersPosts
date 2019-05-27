@@ -1,2 +1,0 @@
-# reactReduxFetchUsersPosts
-Created with CodeSandbox
